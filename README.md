@@ -3,7 +3,8 @@ Spring Batch - Leitura de arquivos com campos delimitados por vírgula.
 
 Leitura de arquivo com largura fixa em Spring Batch
 
-Pt-BR
+#Pt-BR
+
 Informações para que o projeto consiga ser rodado:
 
 Configurar sua conexão MySQL no arquivo application.properties
@@ -13,7 +14,8 @@ Configurar sua conexão MySQL no arquivo application.properties
 
 arquivoClientes=file:files/clientes.txt
 
-En-US
+# En-US
+
 Instructions to compile your project:
 
 Configure your MySQL connection properties in application.properties
